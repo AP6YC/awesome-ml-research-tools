@@ -22,4 +22,12 @@ An (awesome) list of my favorite machine learning research tools.
 ## Julia
 
 - [DrWatson.jl](https://juliadynamics.github.io/DrWatson.jl/stable/)- scientific project management package
- 
+- [Flux.jl](https://fluxml.ai/Flux.jl/stable/) - the main Julia neural nets library.
+- [Lux.jl](https://lux.csail.mit.edu/dev/) - a Julia neural nets library to use when doing physics-informed work.
+
+## CLI
+
+- [chezmoi](https://www.chezmoi.io) - a cross-platform dotfiles manager.
+- [nushell](https://www.nushell.sh) - a decent shell.
+- [wezterm](https://wezterm.org) - a decent terminal emulator and multiplexer all-in-one.
+- [starship](https://starship.rs) - a decent shell prompt.
