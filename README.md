@@ -16,6 +16,11 @@ An (awesome) list of my favorite machine learning research tools.
 - [seaborn](https://seaborn.pydata.org) - wrapper for `matplotlib` with common recipes for statistical visualization.
 - [bokeh](https://docs.bokeh.org/en/latest/index.html) - a separate Python plotting library with built-in support for interactive plots.
 
+#### QPU Simulators
+
+- [qsim](https://quantumai.google/qsim) - Google's quantum computing simulator.
+- [qiskit](https://github.com/Qiskit/qiskit) - IBM's quantum simulator.
+
 #### Etc.
 
 - [jupyter](https://docs.jupyter.org/en/latest/) - ecosystem that contains the `IPython` kernel, jupyter notebook, and jupter lab environments. You can install most of what you need with `pip install jupyterlab`.
@@ -46,6 +51,7 @@ A collection of references and resources for actually running experiments.
 
 [Julia](https://julialang.org) packages and resources.
 
+- [Revise.jl](https://timholy.github.io/Revise.jl/stable/) - online recompiler for Julia, significantly reducing restarts.
 - [DrWatson.jl](https://juliadynamics.github.io/DrWatson.jl/stable/)- scientific project management package
 - [Flux.jl](https://fluxml.ai/Flux.jl/stable/) - the main Julia neural nets library.
 - [Lux.jl](https://lux.csail.mit.edu/dev/) - a Julia neural nets library to use when doing physics-informed work.
