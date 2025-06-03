@@ -5,11 +5,19 @@ An (awesome) list of my favorite machine learning research tools.
 
 ### Libraries
 
+#### Neural Networks
+
 - [PyTorch](https://docs.pytorch.org/docs/stable/index.html) - neural nets à la Facebook
 - [Tensorflow](https://www.tensorflow.org/api_docs/python/tf/all_symbols) - neural nets à la Google
+
+#### Plotting
+
 - [matplotlib](https://matplotlib.org/stable/) - the central plotting library for the Python ecosystem.
 - [seaborn](https://seaborn.pydata.org) - wrapper for `matplotlib` with common recipes for statistical visualization.
 - [bokeh](https://docs.bokeh.org/en/latest/index.html) - a separate Python plotting library with built-in support for interactive plots.
+
+#### Etc.
+
 - [jupyter](https://docs.jupyter.org/en/latest/) - ecosystem that contains the `IPython` kernel, jupyter notebook, and jupter lab environments. You can install most of what you need with `pip install jupyterlab`.
 
 ### Virtual Environment Management
